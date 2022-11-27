@@ -5,15 +5,17 @@
 ### THEORY 
 
 ### Procedure 
-Start the Quartus II Programmer.
-Click Add File and select the path to the desired .sof.
-Turn on the Program/Configure option for the added file.
-Click Start to download the selected file to the FPGA. Configuration is complete when the progress bar reaches 100%.
+1. Start the Quartus II Programmer.
+2. Click Add File and select the path to the desired .sof.
+3. Turn on the Program/Configure option for the added file.
+4. Click Start to download the selected file to the FPGA. Configuration is complete when the progress bar reaches 100%.
  
-
-
-
-
+### Output:
+![op](./1.jpeg)
+![op](./2.jpeg)
+![op](./3.jpeg)
+![op](./4.jpeg)
 
 
 ### RESULTS 
+Therefore the standard procedure to interface an FPGA board and flashing method using usb blaster are understood.
